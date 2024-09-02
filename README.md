@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Science and Data Analytics
 - 🌱 I’m currently learning ... Machine Learning and R
 - 💞️ I’m looking to collaborate on ... Computional Genomics
-- 📫 How to reach me ... celkpg@aol.com
+- 📫 How to reach me ... celkpg@gmail.com
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I am Licensed Customs Broker
 
